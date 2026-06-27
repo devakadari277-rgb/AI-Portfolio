@@ -10,7 +10,7 @@ import WhatIDo from "./WhatIDo";
 import Work from "./Work";
 import setSplitText from "./utils/splitText";
 import TechStack from "./TechStack";
-import MYTECHSTACK from "./MYTECHSTACK";
+// import MYTECHSTACK from "./MYTECHSTACK";
 
 const MainContainer = ({ children }: PropsWithChildren) => {
   const [isDesktopView, setIsDesktopView] = useState<boolean>(() =>

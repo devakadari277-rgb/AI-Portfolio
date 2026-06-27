@@ -40,7 +40,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="https://www.udithav.me/assets/CV_Uditha-BuqOoCLy.pdf"
+        href="/Deva_Kadari_Resume.pdf"
         target="_blank"
       >
         <HoverLinks text="RESUME" />
